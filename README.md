@@ -14,4 +14,4 @@
 
 ✔ Then There some options like Write new note , Visit old notes. and logout. 🧾🧾✒
 
-
+✔ Multi color mode also available  🎃
